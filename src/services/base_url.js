@@ -1,0 +1,1 @@
+export const BASE_URL = "https://saspic-video-app.onrender.com"
